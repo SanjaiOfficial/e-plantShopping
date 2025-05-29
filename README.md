@@ -7,7 +7,6 @@ A beginner-friendly e-commerce web app for plant shopping built with React. This
 
 https://mitsuhasanja-4174.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/shoppingreact
 
-
 ## 🛠️ Key Features & Learning Highlights
 ### 🌱  Plant Display:
 The app dynamically displays a list of plants using plantsArray in ProductList.jsx, rendering details like name, category, image, description, and cost inside a div with the class product-grid.
